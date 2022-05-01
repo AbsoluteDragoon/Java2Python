@@ -1,0 +1,12 @@
+Compiler, A,7001234567
+Compiler, B,7009998888
+Algorithm, B,7009998888
+Algorithm, C,7001112222
+Big Data, A,7001234567
+Game Programming, C,7009998888
+Data Structure, A,7009998888
+Android Programming, B,7001112222
+Big Data, C,7003456123
+Big Data, B,7009998888
+Programming Language, B,7001234567
+Programming Language, A,7001112222
